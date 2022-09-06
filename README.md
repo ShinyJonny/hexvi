@@ -13,5 +13,3 @@ A vi-like terminal hex editor.
 ## Dependencies
 
 - ncursesw
-- rust
-- cargo
